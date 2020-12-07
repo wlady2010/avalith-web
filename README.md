@@ -1,3 +1,22 @@
+# EXPLICACION QUE TIENE EL SISTEMA
+
+El sistema esta echo con Angular 10 y el framework bootstrap
+
+# Para correr localmente
+
+clone el repositorio https://github.com/wlady2010/avalith-web.git
+
+abri en terminal
+
+ubicaser en la carpeta avalith-web
+
+escribir en la teminal npm install
+
+una vez que se  instalara todas las dependencias de mi proyecto
+
+ng start
+
+para que suba nuestro proyecto al http://localhost:4200/
 # Avalith
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.3.
